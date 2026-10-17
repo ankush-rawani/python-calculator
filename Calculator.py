@@ -1,7 +1,7 @@
 #Calculator
 while True:
     print("1.addition")
-    print("2.substraction")
+    print("2.subtraction")
     print("3.multiplication")
     print("4.division")
     print("5.modulus")
@@ -10,7 +10,7 @@ while True:
     print("8.percentage")
     print("9.square root")
     print("10.absolute")
-    print("11.exist")
+    print("11.exit")
     U_input=int(input("Enter your choice"))   #U_input here and every time in code is user input
     if U_input==11:
         print("THANK YOU")
